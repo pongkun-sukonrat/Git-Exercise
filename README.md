@@ -29,7 +29,7 @@ Email: pongkun.skr@gmail.com
 
 🖼️ 2. Picture
 
-![Quote Image](Picture/Quote.png)
+![Quote Image](Picture/Quote.jpg)
 
 🎞️ 3. Animation
 
