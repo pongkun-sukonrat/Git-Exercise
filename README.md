@@ -24,19 +24,26 @@ c) Update this README.md file:
 
 👤 1. Student Information
 
-Name: *** Your full name *** 
-Email: *** Your email address *** 
+Name: Pongkun Sukonrat
+Email: pongkun.skr@gmail.com
 
 🖼️ 2. Picture
 
-*** Place Quote.* here *** 
+![Quote Image](Picture/Quote.png)
 
 🎞️ 3. Animation
 
-*** Place GITGIF.* here *** 
+![Git Animation](Animation/GitGif.gif) 
 
 💬 4. Quote
 
-*** Read and Place TEXT from Quote.* here  ***
+Revision control gives us the confidence to move foward, because we can always trace our changes and return to what worked.
 
 🎬 5. Video Lecture
+
+https://www.youtube.com/watch?v=alfmHTYsEU4
+
+git add .
+git commit -m "Complete repository and README practice assignment"
+git push
+
