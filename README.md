@@ -33,7 +33,7 @@ Email: pongkun.skr@gmail.com
 
 🎞️ 3. Animation
 
-![Git Animation](Animation/GitGif.gif) 
+![Git Animation](Animation/GITGIF.gif) 
 
 💬 4. Quote
 
