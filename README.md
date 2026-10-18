@@ -42,8 +42,3 @@ Revision control gives us the confidence to move foward, because we can always t
 🎬 5. Video Lecture
 
 https://www.youtube.com/watch?v=alfmHTYsEU4
-
-git add .
-git commit -m "Complete repository and README practice assignment"
-git push
-
